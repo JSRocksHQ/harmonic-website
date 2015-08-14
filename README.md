@@ -1,6 +1,6 @@
 ![Harmonic Website](images/thumb.png)
 
-Harmomic is built using the mordern JavaScript (ES2015/ES6 - ES2016/ES7). Take a look at the code, start learning the new JavaScript and fell free to contribute.
+Harmomic is built using the modern JavaScript (ES2015/ES6+). Take a look at the code, start learning the new JavaScript and feel free to contribute.
 
 ## Getting Started
 
